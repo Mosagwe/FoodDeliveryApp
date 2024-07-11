@@ -15,15 +15,11 @@ export const GetTheLocalities = () => {
             <div>
                 <img src={Localities} alt="" height="100%" width="100%" />
             </div>
-            <div>
-                <img src={ZomatoApp} alt="" height="100%" width="100%" />
-            </div>
+           
             <div>
                 <img src={Explore} alt="" height="100%" width="100%" />
             </div>
-            <div>
-                <img src={Apps} alt="" height="100%" width="100%" />
-            </div>
+            
         </div>
 
         

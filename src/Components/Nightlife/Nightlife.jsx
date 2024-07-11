@@ -1,5 +1,4 @@
 
-import { Collections } from "../Home/Collection"
 import { TabsNav } from "../Navbar/TabsNav"
 import { ZomatoNav } from "../Navbar/ZomatoNav"
 import { Filter } from "../FilterPage/Filter"

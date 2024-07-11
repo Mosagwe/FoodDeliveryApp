@@ -1,5 +1,5 @@
 
-import { Collections } from "../Home/Collection"
+
 import { TabsNav } from "../Navbar/TabsNav"
 import { ZomatoNav } from "../Navbar/ZomatoNav"
 import { Filter } from "../FilterPage/Filter"
@@ -78,12 +78,7 @@ export const DinningOut = () => {
         < Filter HandlePrice ={HandlePrice} HandleRating ={HandleRating} price={price} rating={rating} />
             
 
-        <div className="collectionBox">
-            <Collections />
-        </div>
-
-
-        <h1 id="headOrder">Dine-Out Restaurants In NCR Delhi </h1>
+          <h1 id="headOrder">Dine-Out Restaurants In NCR Delhi </h1>
 
 
         {currentCity.length ?
